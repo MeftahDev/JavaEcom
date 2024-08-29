@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
+/*This is my First Entity class*/
 @Entity(name = "Categories")
 @Data
 @AllArgsConstructor
